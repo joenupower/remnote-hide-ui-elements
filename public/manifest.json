@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "id": "hide-ui-elements",
+  "name": "Hide UI Elements",
+  "author": "joenupower",
+  "repoUrl": "https://github.com/joenupower/remnote-hide-ui-elements",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "theme": [],
+  "enableOnMobile": true,
+  "description": "Hide sidebar entries and buttons you never use: Documents & Folders, Today's Note, Tutorials, Invite Friends and the Share button. Each one can be toggled in the settings.",
+  "requestNative": false,
+  "requiredScopes": [
+    {
+      "type": "All",
+      "level": "Read"
+    }
+  ]
+}
